@@ -1,6 +1,9 @@
 # Table.lua
 Basic table operations that every Lua programmer needs to know.
 
+# Documentation
+The full documentation is available at: https://2dengine.com/?p=table
+
 ## Installation
 ```
 require("utils.table")
